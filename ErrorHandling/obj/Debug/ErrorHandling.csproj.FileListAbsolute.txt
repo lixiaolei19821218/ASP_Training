@@ -1,0 +1,6 @@
+c:\users\潇磊\documents\visual studio 2013\Projects\ASP_Training\ErrorHandling\bin\ErrorHandling.dll.config
+c:\users\潇磊\documents\visual studio 2013\Projects\ASP_Training\ErrorHandling\bin\ErrorHandling.dll
+c:\users\潇磊\documents\visual studio 2013\Projects\ASP_Training\ErrorHandling\bin\ErrorHandling.pdb
+c:\users\潇磊\documents\visual studio 2013\Projects\ASP_Training\ErrorHandling\obj\Debug\ErrorHandling.csprojResolveAssemblyReference.cache
+c:\users\潇磊\documents\visual studio 2013\Projects\ASP_Training\ErrorHandling\obj\Debug\ErrorHandling.dll
+c:\users\潇磊\documents\visual studio 2013\Projects\ASP_Training\ErrorHandling\obj\Debug\ErrorHandling.pdb
