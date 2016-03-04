@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Default.aspx" />
+    <Content Include="Failure.html" />
     <Content Include="SumControl.ascx" />
     <Content Include="Web.config" />
   </ItemGroup>
